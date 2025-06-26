@@ -50,24 +50,11 @@ The system is built with the following components:
 - **Security:** Public/private subnet segmentation with fine-grained access.
 - **Cost Optimization:** Scales down during low demand and leverages managed services like RDS.
 
----
-
-## 📁 Project Structure
-
-This project includes Terraform/CloudFormation templates (if applicable), architectural diagrams, and configuration scripts to help replicate the solution.
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Review the architecture diagrams and AWS configuration scripts.
-3. Deploy resources using Terraform or AWS Management Console.
-4. Monitor performance with CloudWatch and test Auto Scaling features.
 
 ---
 **Mostafa Adel Hemdan**  
 Cloud & DevOps Enthusiast | Electrical Engineer | AWS Learner
 
----
 
 
 
