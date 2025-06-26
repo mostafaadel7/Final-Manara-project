@@ -64,15 +64,10 @@ This project includes Terraform/CloudFormation templates (if applicable), archit
 4. Monitor performance with CloudWatch and test Auto Scaling features.
 
 ---
-
-## 👨‍💻 Author
-
 **Mostafa Adel Hemdan**  
 Cloud & DevOps Enthusiast | Electrical Engineer | AWS Learner
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the MIT License.
 
